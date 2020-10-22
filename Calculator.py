@@ -100,5 +100,3 @@ while True:
         continue
     else:
         break
-
-#E:\Python\Calculator.py
